@@ -1,4 +1,5 @@
-(AIML)+Student;Full+Stack+Developer;Java+%26+Python;Open+Source+Contributor" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=CSE+(AIML)+Student;Full+Stack+Developer;Java+%26+Python;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi there, I'm Harshit Pushkarna! 👋</h1>
@@ -79,7 +80,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpushkarna871&layout=compact&theme=radical&hide_border=true)
 
 ### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitpushkarna871&theme=radical&hide_border=true)
-
-### 🐍 Snake Game
-![Snake Animation](https://raw.githubusercontent.com/harshitpushkarna871/harshitpushkarna871/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=harshitpushkarna871&theme=radical&hide_border=true)
