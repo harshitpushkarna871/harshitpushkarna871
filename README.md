@@ -80,6 +80,8 @@
 ![Harshit's Stats](https://github-readme-stats.vercel.app/api?username=harshitpushkarna871&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpushkarna871&layout=compact&theme=radical&hide_border=true)
 
+### 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitpushkarna871&theme=radical&hide_border=true)
 
 ### 🐍 Snake Game
 ![Snake Animation](https://raw.githubusercontent.com/harshitpushkarna871/harshitpushkarna871/output/github-contribution-grid-snake.svg)
