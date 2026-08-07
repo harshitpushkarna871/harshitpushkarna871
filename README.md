@@ -18,59 +18,95 @@
 
 ### 🛠️ Languages and Tools
 
-**AI & Core Languages:**
+**💻 Programming Languages:**
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c" />
+    <img src="https://skillicons.dev/icons?i=java,js,python,c" />
   </a>
 </p>
 
-**Web & App Development:**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+**🌐 Frontend Development:**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react" />
+  </a>
 </p>
 
-**Database & Cloud:**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+**⚙️ Backend Development:**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
 </p>
 
-**Tools & OS:**
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+**🗄️ Database:**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  </a>
 </p>
+
+**☁️ Cloud & Deployment:**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
+  </a>
+</p>
+
+**🛠️ Tools & IDEs:**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  </a>
+</p>
+
+**💻 Operating Systems:**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
+
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://harshitpushkarna.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:harshitpushkarna871@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/harshit-pushkarna-745094351" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/HarshitP60682" target="blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://instagram.com/harshitpushkarna_0131" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.facebook.com/share/17CMgg3xrL/" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://harshitpushkarna.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webstorm" height="50"/>
+  </a>
+
+  <a href="mailto:harshitpushkarna07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshit-pushkarna-745094351/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+
+  <a href="https://github.com/harshitpushkarna871" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+
+  <a href="https://x.com/HarshitP60682" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="45"/>
+  </a>
+
+  <a href="https://instagram.com/harshitpushkarna_0131" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45"/>
+  </a>
+
+  <a href="https://www.facebook.com/share/17CMgg3xrL/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
+  </a>
 </p>
 
 ---
