@@ -9,8 +9,8 @@
   I love building web applications, Android apps, and training models.
 </p>
 
-- 🔭 I’m currently working on **Full Stack & AI Projects**.
-- 👯 I’m looking to collaborate on **Java, Python & ML based projects**.
+- 🔭 I’m currently working on **Full Stack Projects**.
+- 👯 I’m looking to collaborate on **Java, Python project**.
 - 💬 Ask me about **Data Structures, AI, Web Dev**.
 - 📫 How to reach me: **harshitpushkarna871@gmail.com**
 
@@ -19,11 +19,11 @@
 ### 🛠️ Languages and Tools
 
 **AI & Core Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c" />
+  </a>
 </p>
 
 **Web & App Development:**
