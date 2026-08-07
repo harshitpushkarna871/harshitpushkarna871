@@ -113,11 +113,28 @@
 
 
 ### 📊 GitHub Stats
-![Harshit's Stats](https://github-readme-stats.vercel.app/api?username=harshitpushkarna871&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpushkarna871&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitpushkarna871&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitpushkarna871&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitpushkarna871&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpushkarna871&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 🐍 Snake Game
-![Snake Animation](https://raw.githubusercontent.com/harshitpushkarna871/harshitpushkarna871/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshitpushkarna871/harshitpushkarna871/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpushkarna871&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitpushkarna871&style=for-the-badge&color=0e75b6"/>
+</p
