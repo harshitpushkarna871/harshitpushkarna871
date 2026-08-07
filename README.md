@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Full Stack Projects**.
 - 👯 I’m looking to collaborate on **Java, Python project**.
 - 💬 Ask me about **Data Structures, AI, Web Dev**.
-- 📫 How to reach me: **harshitpushkarna871@gmail.com**
+- 📫 How to reach me: **harshitpushkarna07@gmail.com**
 
 ---
 
